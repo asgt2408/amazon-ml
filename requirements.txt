@@ -1,0 +1,9 @@
+Business Entity Resolution — ML Challenge 2026
+
+Python environment dependencies
+duckdb
+pandas
+numpy
+scikit-learn
+pyarrow
+joblib
